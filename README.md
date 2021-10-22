@@ -13,10 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Melissa Ribeiro](https://github.com/melissarib/melissarib/blob/main/capa-github-melissarib.png)
+
+![Melissa Ribeiro](https://github.com/melissarib/melissarib/blob/main/nova-capa-github.png)
 
 
-<p align="justify">Welcome to my GitHub! My name is Melissa and I'm a student of biomedical informatics at the University of São Paulo. I'm looking to improve myself in front-end development and I have a strong interest in artificial intelligence, more specifically computer vision and deep learning. I am a co-organizer in the PyLadies Ribeirão Preto community. I hope to build a world where technology can help people and everyone can experience, learn, survive and thrive. Ah, I also think about life, the universe and everything.</p>
+# Bem-vindo(a) ao meu GitHub! ✨ 
+
+<p align="justify">  Olá! Meu nome é Melissa Ribeiro, sou estudante de Informática Biomédica na Universidade de São Paulo e estou procurando aprimorar minhas habilidades como <b>desenvolvedora fullstack</b>. Também tenho um grande interesse em <b>inteligência artificial e visão computacional</b>. Sou membro e co-organizadora voluntária na comunidade PyLadies Brasil, capítulo de Ribeirão Preto. Espero construir um mundo onde a <b>tecnologia possa ajudar as pessoas.</b> 
+
+<p align="justify">“Nada no mundo se compara a persistir em um propósito. Nem mesmo o talento. Não há nada mais comum do que homens talentosos malsucedidos. Muito menos a genialidade; a existência de gênios não recompensados é quase um provérbio. Nem a educação; o mundo está cheio de tolos educados. A persistência e determinação são, por si sós, onipotentes.” ― Adaptação das palavras do reverendo Theodore Thornton Munger, publicadas no livro "On the Threshold" (1881)</p>
 
 <br/>
 
@@ -27,9 +32,9 @@ Here are some ideas to get you started:
 [![Facebook Badge](https://img.shields.io/badge/-melissa&#160;ribeiro-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/melissarib9)](https://www.facebook.com/melissarib9)
 [![Telegram Badge](https://img.shields.io/badge/melissarib&#160;direct&#160;messages-grey?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/melissarib)](https://t.me/melissarib)
 
- #### languages and tools:
+ #### linguagens e ferramentas:
 <!--
-✨Créditos especiais pelas imagens que fiquei com preguiça de baixar: vivalverma558 ✨
+✨ A imagem do cabeçalho foi retirada do site computecuter.com e editada por mim. créditos exclusivos a artista original ✨
 
 -->
 
