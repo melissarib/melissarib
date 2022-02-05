@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 <p align="justify">  Olá! Meu nome é Melissa Ribeiro, sou estudante de Informática Biomédica na Universidade de São Paulo e estou procurando aprimorar minhas habilidades como <b>desenvolvedora fullstack</b>. Também tenho um grande interesse em <b>inteligência artificial e visão computacional</b>. Sou membro e co-organizadora voluntária na comunidade PyLadies Brasil, capítulo de Ribeirão Preto. Espero construir um mundo onde a <b>tecnologia possa ajudar as pessoas.</b> 
 
-<p align="justify">“Nada no mundo se compara a persistir em um propósito. Nem mesmo o talento. Não há nada mais comum do que homens talentosos malsucedidos. Muito menos a genialidade; a existência de gênios não recompensados é quase um provérbio. Nem a educação; o mundo está cheio de tolos educados. A persistência e determinação são, por si sós, onipotentes.” ― Adaptação das palavras do reverendo Theodore Thornton Munger, publicadas no livro "On the Threshold" (1881)</p>
-
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/melissarib?style=social)](https://www.github.com/melissarib)
