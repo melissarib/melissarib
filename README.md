@@ -9,7 +9,7 @@
 
 # Bem-vindo(a) ao meu GitHub! ✨ 
 
-<p align="justify">  Olá! Meu nome é Melissa, sou bacharel em Informática Biomédica pela Universidade de São Paulo (USP) e gosto de aplicar minhas habilidades de desenvolvimento em aplicativos e sistemas focados em medicina e/ou educação. Também tenho interesse em <b>inteligência artificial e visão computacional</b>. Tenho experiência profissional com o ecossistema Javascript (MongoDB, Express, React, Node) e desenvolvimento mobile iOS nativo (Swift, UIKit, ViewCode, Alamofire, Realm).
+<p align="justify">  Olá! Meu nome é Melissa, sou bacharel em Informática Biomédica pela Universidade de São Paulo (USP) e gosto de aplicar minhas habilidades de desenvolvimento em aplicativos e sistemas focados em medicina e/ou educação (mas não apenas neles! 😉). Também tenho interesse em <b>inteligência artificial e visão computacional</b>. Tenho experiência profissional com o ecossistema Javascript (MongoDB, Express, React, Node) e desenvolvimento mobile iOS nativo (Swift, UIKit, ViewCode, Alamofire, Realm).
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/melissarib?style=social)](https://www.github.com/melissarib)
