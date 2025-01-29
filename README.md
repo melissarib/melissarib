@@ -16,6 +16,7 @@ Gosto de aplicar minhas habilidades de análise e desenvolvimento de software em
 
  #### Formação acadêmica
 
+- Pós-graduanda em Inovação, Tecnologias Emergentes e Imersivas para Saúde Digital (UFG)
 - Pós-graduanda em Engenharia de Qualidade e Testes de Software (PUC Minas)
 - Bacharel em Informática Biomédica (Universidade de São Paulo)
 - Técnica em Informática para Internet (FAETEC/RJ)
